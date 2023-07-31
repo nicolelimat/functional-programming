@@ -1,5 +1,5 @@
 # functional-programming
-This repository contains the exercises lists developed in haskell language during the Functional Programming course, taught by Professor Eliseu César Miguel, in the Computer Science course at UNIFAL-MG. 
+This repository contains the exercises lists developed in Haskell language during the Functional Programming course, taught by Professor Eliseu César Miguel, in the Computer Science course at UNIFAL-MG. 
 
 ## 
 ### List Exercises:
