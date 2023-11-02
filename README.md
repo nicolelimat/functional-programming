@@ -4,4 +4,4 @@ This repository contains the exercises lists developed in Haskell language durin
 ## 
 ### List Exercises:
 - **[List 1](https://github.com/nicolelimat/functional-programming/blob/main/lista01.hs)**
-- **List 2**
+- **[List 2](https://github.com/nicolelimat/functional-programming/blob/main/lista02.hs)**
